@@ -1,5 +1,7 @@
 # Harikrishnan S · Stardew-style portfolio
 
+https://adu773.github.io/Harikrishnan-S/
+
 A single-file, pixel-art portfolio inspired by Stardew Valley. No build step and no dependencies;
 the only external request is Google Fonts.
 
